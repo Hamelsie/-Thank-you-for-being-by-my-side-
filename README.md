@@ -28,11 +28,11 @@ canvas {
  */
 var settings = {
   particles: {
-    length:   00, // maximum amount of particles
+    length:700, // maximum amount of particles
     duration:   2, // particle duration in sec
     velocity: 200, // particle velocity in pixels/sec
-    effect: -0.55, // play with this for a nice effect
-    size:      30, // particle size in pixels
+    effect: -0.5, // play with this for a nice effect
+    size: 30, // particle size in pixels
   },
 };
 
