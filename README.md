@@ -1,5 +1,6 @@
 <HTML>
  <HEAD>
+ Iu cậu nhiều lắm 👸🏻❤️😘
   <TITLE> New Document </TITLE>
   <META NAME="Generator" CONTENT="EditPlus">
   <META NAME="Author" CONTENT="">
@@ -28,11 +29,11 @@ canvas {
  */
 var settings = {
   particles: {
-    length:   500, // maximum amount of particles
-    duration:   2, // particle duration in sec
+    length:  700, // maximum amount of particles
+    duration:  1, // particle duration in sec
     velocity: 100, // particle velocity in pixels/sec
     effect: -0.75, // play with this for a nice effect
-    size:      0, // particle size in pixels
+    size: 0, // particle size in pixels
   },
 };
 
