@@ -7,7 +7,7 @@
   <META NAME="Description" CONTENT="">
   <style>
   html, body {
-  height: 100%;
+  height: %;
   padding: 0;
   margin: 0;
   background: #000;
