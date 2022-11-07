@@ -1,4 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
  <HEAD>
   <TITLE> New Document </TITLE>
@@ -11,7 +10,7 @@
   height: 100%;
   padding: 0;
   margin: 0;
-  background: #000;
+  background:#ffe4e1;
 }
 canvas {
   position: absolute;
@@ -33,7 +32,7 @@ var settings = {
     duration:   2, // particle duration in sec
     velocity: 100, // particle velocity in pixels/sec
     effect: -0.75, // play with this for a nice effect
-    size:      30, // particle size in pixels
+    size:      0, // particle size in pixels
   },
 };
 
