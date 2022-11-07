@@ -7,15 +7,15 @@
   <META NAME="Description" CONTENT="">
   <style>
   html, body {
-  height: %;
+  height: 50%;
   padding: 0;
   margin: 0;
   background: #000;
 }
 canvas {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
 }
   </style>
  </HEAD>
@@ -28,9 +28,9 @@ canvas {
  */
 var settings = {
   particles: {
-    length:700, // maximum amount of particles
+    length:650, // maximum amount of particles
     duration:   2, // particle duration in sec
-    velocity: 200, // particle velocity in pixels/sec
+    velocity: 150, // particle velocity in pixels/sec
     effect: -0.5, // play with this for a nice effect
     size: 30, // particle size in pixels
   },
