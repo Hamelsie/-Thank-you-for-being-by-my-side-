@@ -10,7 +10,7 @@
   height: 50%;
   padding: 0;
   margin: 0;
-  background: #000;
+  background:https://github.com/Hamelsie/-Thank-you-for-being-by-my-side-/issues/1#issue-1614507177;
 }
 canvas {
   position: absolute;
