@@ -7,10 +7,13 @@
   <META NAME="Description" CONTENT="">
   <style>
   html, body {
-  height: 50%;
+  height: 80%;
   padding: 0;
   margin: 0;
-  background:https://github.com/Hamelsie/-Thank-you-for-being-by-my-side-/issues/1#issue-1614507177;
+  background-image: url('https://github.com/Hamelsie/-Thank-you-for-being-by-my-side-/issues/1#issue-1614507177');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 canvas {
   position: absolute;
@@ -260,6 +263,7 @@ var ParticlePool = (function() {
 })(document.getElementById('pinkboard'));
   </script>
  </BODY>
+ <font ><marquee direction="left" style="background:#f7cbdf">IU bạn nhiều lắm 👸🏻👸🏻💕.Cảm ơn bạn đã đến và ở lại bên cạnh tôi 😘😘</marquee></font>
 </HTML>
 
 
